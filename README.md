@@ -1,2 +1,2 @@
-# projects_for_data_analysis
-This repository contains some projects about data analysis.
+# Apple-Stock-Price-Prediction
+This repository contains some codes for a project about Apple Stock Price Prediction.
